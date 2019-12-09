@@ -2,18 +2,7 @@
 title: Home
 banner:
   actions: []
-  subtitle: |-
-    Guide on Creating Parking Management Solutions
-
-
-
-
-
-
-
-    ![](/images/gopark.gif)
-
-    Guide on Creating Parking Management Solutions
+  subtitle: Guide on Creating Parking Management Solutions
   title: 'ParkMe, Inc'
 sections:
   - component: features.html
