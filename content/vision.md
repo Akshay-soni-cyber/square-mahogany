@@ -1,6 +1,9 @@
 ---
 title: VISION
 subtitle: >-
+  ![](/images/lead_image.png)
+
+
   To provide customers satisfaction by making the system easy to use and trouble
   free.
 content_img:
