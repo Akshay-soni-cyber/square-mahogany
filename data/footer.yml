@@ -10,19 +10,19 @@ contact_methods:
   methods_col1:
     - icon: fa-map-marker
       text: |-
-        Untitled Corp  
-        1234 Fictional Road  
-        Suite 5432  
-        Nashville, TN 00000
+        Down Town
+        Sault ste Marie
+        26A 3NP
+        Ontario
       title: Address
       type: contact_with_text
   methods_col2:
     - icon: fa-phone
-      text: (000) 000-0000
+      text: (705) 987-4773
       title: Phone
       type: contact_with_text
     - icon: fa-envelope-o
-      text: information@untitled.tld
+      text: parkinginfotech@gmail.com
       title: Email
       type: contact_with_link
       url: '#'
