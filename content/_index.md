@@ -1,5 +1,5 @@
 ---
-title: Home
+title: ParkMe
 banner:
   actions: []
   subtitle: Guide on Creating Parking Management Solutions
