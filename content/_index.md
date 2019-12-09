@@ -1,5 +1,5 @@
 ---
-title: 'ParkMe, Inc'
+title: Home
 banner:
   actions:
     - is_huge: true
@@ -7,8 +7,8 @@ banner:
       is_scrolly: false
       label: Learn More
       url: /no-sidebar
-  subtitle: Sed magna in pharetra ultricies dolor sit consequat magna.
-  title: Guide on Creating Parking Management Solutions
+  subtitle: Guide on Creating Parking Management Solutions
+  title: 'ParkMe, Inc'
 sections:
   - component: features.html
     features:
