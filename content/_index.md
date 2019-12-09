@@ -1,12 +1,7 @@
 ---
 title: Home
 banner:
-  actions:
-    - is_huge: true
-      is_primary: false
-      is_scrolly: false
-      label: Learn More
-      url: /no-sidebar
+  actions: []
   subtitle: Guide on Creating Parking Management Solutions
   title: 'ParkMe, Inc'
 sections:
