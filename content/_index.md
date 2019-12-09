@@ -11,6 +11,9 @@ sections:
   - component: features.html
     features:
       - description: >-
+          ![](/images/98f6da02aeb24ea33a268179f0a6991e.jpg)
+
+
           I will provide spacious parking platform at very reasonable price to
           the customers.
         icon:
