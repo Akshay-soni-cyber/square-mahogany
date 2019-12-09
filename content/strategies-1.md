@@ -1,6 +1,9 @@
 ---
 title: Strategies
-subtitle: Strategies
+subtitle: |-
+  ![](/images/car-parking-system.jpg)
+
+  Strategies
 content_img:
   enabled: false
   url: '#'
