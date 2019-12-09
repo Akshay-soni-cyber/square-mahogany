@@ -2,7 +2,7 @@
 title: Home
 banner:
   actions: []
-  subtitle: |
+  subtitle: |-
     Guide on Creating Parking Management Solutions
 
 
@@ -12,7 +12,6 @@ banner:
 
 
     ![](/images/gopark.gif)
-
 
     Guide on Creating Parking Management Solutions
   title: 'ParkMe, Inc'
