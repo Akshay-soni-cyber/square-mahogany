@@ -19,6 +19,9 @@ sections:
           style: style1
         title: Spacious Parking
       - description: >-
+          ![](/images/global_industries_columns_prd-column-builder_parkingenforcement_intro.jpg)
+
+
           My organisation proper install cameras and alarms for the satefty of
           the customers.
         icon:
