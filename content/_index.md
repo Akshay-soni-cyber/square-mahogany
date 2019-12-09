@@ -13,35 +13,29 @@ sections:
   - component: features.html
     features:
       - description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-          Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
-          ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
-          consectetur. Morbi libero orci, consectetur in odio maximus felis.
+          I will provide spacious parking platform at very reasonable price to
+          the customers.
         icon:
           enabled: true
           icon: fa-area-chart
           style: style1
-        title: Integer vitae consequat sed magna feugiat
+        title: Spacious Parking
       - description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-          Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
-          ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
-          consectetur. Morbi libero orci, consectetur in odio maximus felis.
+          My organisation proper install cameras and alarms for the satefty of
+          the customers.
         icon:
           enabled: true
           icon: fa-pie-chart
           style: style2
-        title: Phasellus libero eu sed augue gravida
+        title: Security
       - description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-          Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
-          ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
-          consectetur. Morbi libero orci, consectetur in odio maximus felis.
+          My company will provide online acess to the customer which is helpfull
+          to easily park the vehicles.
         icon:
           enabled: true
           icon: fa-cube
           style: style3
-        title: Lacus ultricies sagittis mi dui dapibus
+        title: Online Access
     section_id: features
     type: features
   - actions:
