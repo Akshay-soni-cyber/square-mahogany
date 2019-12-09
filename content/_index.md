@@ -36,7 +36,7 @@ sections:
           icon: fa-cube
           style: style3
         title: Online Access
-    section_id: features
+    section_id: Features
     type: features
 menu:
   main:
