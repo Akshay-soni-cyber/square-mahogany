@@ -38,22 +38,6 @@ sections:
         title: Online Access
     section_id: features
     type: features
-  - actions:
-      - is_primary: false
-        is_scrolly: false
-        label: How it works
-        url: /contact
-    component: cta.html
-    section_id: cta
-    text: >-
-      Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus. Phasellus
-      lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
-      sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi
-      libero orci, consectetur in odio maximus felis. Lorem ipsum ullamcorper
-      laoreet, lectus arcu pulvinar lorem ipsum interdum sed tempus sagittis
-      lorem feugiat. In fringilla diet consectetur.
-    title: Ultrices ante sagittis nunc senectus libero netus
-    type: cta
 menu:
   main:
     name: Home
