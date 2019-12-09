@@ -33,6 +33,9 @@ sections:
           style: style2
         title: Security
       - description: >-
+          ![](/images/hiaa-parkingmap-blue-dots.png)
+
+
           My company will provide online acess to the customer which is helpfull
           to easily park the vehicles.
         icon:
