@@ -1,6 +1,9 @@
 ---
 title: Marketing
-subtitle: Marketing
+subtitle: |-
+  ![](/images/spots-parking-app-4-638.jpg)
+
+  Marketing
 content_img:
   enabled: false
   url: '#'
