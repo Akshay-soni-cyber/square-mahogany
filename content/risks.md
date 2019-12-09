@@ -18,6 +18,9 @@ content_img:
 sidebar:
   enabled: false
   side: left
+menu:
+  main:
+    weight: 4
 layout: page
 ---
 
